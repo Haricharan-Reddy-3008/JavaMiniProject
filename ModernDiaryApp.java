@@ -117,6 +117,15 @@ class ModernDiaryApp extends JFrame {
 
         // Load existing entries
         loadEntries();
+
+        SwingUtilities.invokeLater(() -> {
+            JOptionPane.showMessageDialog(
+                this,
+                "Click 'Change or Open Folder' button to create or open a folder to save your diary entries.",
+                "Folder Setup",
+                JOptionPane.INFORMATION_MESSAGE
+            );
+        });
     }
 
     private void applyDarkTheme() {
