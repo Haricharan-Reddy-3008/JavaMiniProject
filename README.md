@@ -1,5 +1,9 @@
 Project Name:- Personal Diary Application
 
+Team:- 
+V.Haricharanreddy,USN:-1RF23IS091 
+Vrushabh.KB,USN:- 1RF23IS093
+
 Features:-
 Password Authentication: Secure access to the diary with a password.
 Add Entry: Allows users to add new diary entries.
