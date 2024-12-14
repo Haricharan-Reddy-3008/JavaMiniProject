@@ -21,7 +21,7 @@ Run the application by executing the ModernDiaryApp class.
 Enter the password ("rvitm" by default) to access your diary.
 After entering the password you can see the App interface where you can create diaries and perform other operations on it but you cant save the diaries to the system memory.
 In order to save the diaries into the system memory first you need to create or select the existing folder to save your diaries in the respective folder using "Select or Open folder" button.
-After creating or opening the folder where you want to store your diaries, You can follow the below steps :-
+After creating or opening the folder where you want to store your diaries, You can follow the these steps :-
 Write or edit a diary entry in the main text area.
 Click the "Add Entry" button to save the diary entry.
 Select an entry from the list and click "View Entry" to view its content.
